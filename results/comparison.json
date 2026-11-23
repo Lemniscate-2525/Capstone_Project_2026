@@ -1,0 +1,46 @@
+{
+    "Llama": {
+        "AUROC": 1.0,
+        "PR-AUC": 1.0,
+        "Accuracy": 1.0,
+        "Precision": 1.0,
+        "Recall": 1.0,
+        "F1": 1.0,
+        "Training Time": 672.3558279999997,
+        "Mean Latency": 10.299235600003158,
+        "Throughput": 97.09458437864004,
+        "Parameters": 4222465,
+        "Confusion Matrix": [
+            [
+                902,
+                0
+            ],
+            [
+                0,
+                98
+            ]
+        ]
+    },
+    "BERT": {
+        "AUROC": 1.0,
+        "PR-AUC": 1.0,
+        "Accuracy": 1.0,
+        "Precision": 1.0,
+        "Recall": 1.0,
+        "F1": 1.0,
+        "Training Time": 557.3444569999992,
+        "Mean Latency": 8.770447000002605,
+        "Throughput": 114.01927404608944,
+        "Parameters": 3218177,
+        "Confusion Matrix": [
+            [
+                902,
+                0
+            ],
+            [
+                0,
+                98
+            ]
+        ]
+    }
+}
